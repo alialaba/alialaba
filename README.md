@@ -1,4 +1,4 @@
-### About Me
+## About Me
 
 - 👤 **Name:** Aliyu AbdulGaniy
 - 😄 **Pronoun:** He/Him
