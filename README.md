@@ -1,6 +1,6 @@
-About Me
+# About Me
 
-- 👤 Name: Aliyu AbdulGaniy
+- 👤 **Name:** Aliyu AbdulGaniy
 - 😄 He/Him
 - 📍  I’m currently learning React
 - 💼 Job:Web Dev
