@@ -1,11 +1,10 @@
-# About Me
+### About Me
 
 - 👤 **Name:** Aliyu AbdulGaniy
-- 😄 He/Him
-- 📍  I’m currently learning React
-- 💼 Job:Web Dev
-- 📣 Language: English, Yoruba,Igbo and touch of Hausa 😄
--  How to reach me via email(alialaba079@gmail.com) || via twitter(@thisaliaba).
+- 😄 **Pronoun:** He/Him
+- 📍  **Location:** Nigeria
+- 💼 **Job:** Web Dev
+- 📣 **Language:** English, Yoruba,Igbo and touch of Hausa 😄
 
 <!---
 alialaba/alialaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
