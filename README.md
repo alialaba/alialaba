@@ -13,7 +13,7 @@
 ## I'm currently
 - Learning competitive programming
 - building my portfolio website
-- building with reactjs
+- building with Nextjs and reactjs 
 - A student at CS50's Introduction to Computer Science
 
 <a href="https://app.daily.dev/aliaba"><img src="https://api.daily.dev/devcards/5be4def33fcf48f1ad9cd3c72bcfff13.png?r=8b5" width="400" alt="Aliyu Abdul Ganiy's Dev Card"/></a>
